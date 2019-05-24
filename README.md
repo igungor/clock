@@ -1,7 +1,7 @@
 clock
 ====
 
-[![Build Status](https://travis-ci.org/jmhodges/clock.png?branch=master)](https://travis-ci.org/jmhodges/clock)
+[![Build Status](https://travis-ci.org/igungor/clock.png?branch=master)](https://travis-ci.org/igungor/clock)
 
 Package clock provides an abstraction for system time that enables
 testing of time-sensitive code.
@@ -24,4 +24,4 @@ https://github.com/golang/go/issues/8869
 Be sure to test Time equality with time.Time#Equal, not ==.
 
 For documentation, see the
-[godoc](http://godoc.org/github.com/jmhodges/clock).
+[godoc](http://godoc.org/github.com/igungor/clock).
